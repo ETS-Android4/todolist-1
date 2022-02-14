@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/activity_main.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/activity_signup.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/activity_splash.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/dialog_bottom_sheet.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/dialog_filter.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/dialog_new_list.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/dialog_new_list_item.xml" value="0.22" />
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/fragment_todolist.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/fragment_todolistitem.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/item_todolist.xml" value="0.22" />
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/item_todolistitem.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/todolist/app/src/main/res/layout/nav_header_main.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/todolist/app/src/main/res/menu/activity_main_drawer.xml" value="0.22135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
